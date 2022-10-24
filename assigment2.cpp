@@ -27,7 +27,7 @@ int main(){
    break;
 
 }
-   cout<<"Invalid Operstion. The Loop is Terminated. "<<endl;
+   cout<<"Invalid Operation. The Loop is Terminated. "<<endl;
    cout<<"----------------------------------------"<<endl;
    cout<<"Thank You for using This Service."<<endl;
 }
